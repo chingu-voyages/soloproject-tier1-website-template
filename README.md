@@ -15,6 +15,7 @@ versions to use in future web apps you develop!
 For this project you must use Native (Vanilla/Plain) HTML5, CSS, and JavaScript for this project. You are encouraged to use
 CSS-Grid, Flexbox, Media Queries, a naming system like BEM, semantic HTML tags, or other modern techniques! You may not use frameworks or libraries such as Bootstrap.
 
-For detailed requirements checkout the ZenHub Board that is part of this repo.
+General instructions for all Pre-Work Projects are located in the Chingu Voyage Handbook (URL posted in the
+`#prework-community-news channel` on Discord). For detailed requirements checkout the ZenHub Board that is part of this repo.
 
 Good Luck!!!
