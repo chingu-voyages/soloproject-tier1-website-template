@@ -1,5 +1,7 @@
 # Chingu Voyage Pre-work Project (Tier 1): Website Template
 
+![Tier1 Website Template](Tier1_Website_Template.gif)
+
 ## Overview
 This project provides you with Great Practice Making MODERN LOOKING web apps by cloning the "Conquer" Website Template
 in HTML/CSS/JS WITHOUT the Bootstrap and Jquery!
