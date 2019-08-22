@@ -4,7 +4,7 @@
 
 ## Overview
 This project provides you with Great Practice Making MODERN LOOKING web apps by cloning the "Conquer" Website Template
-in HTML/CSS/JS WITHOUT the Bootstrap and Jquery!
+in HTML/CSS/JS WITHOUT the Bootstrap and Jquery or other libraries (like Materialize)!
 
 When you download it to check out, the design is made using Bootstrap and Jquery, but we want you to make it without
 those libraries, just using your mad HTML, CSS, and JavaScript skillz!
