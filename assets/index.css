@@ -1,0 +1,479 @@
+body{
+    margin: 0px;
+  
+}
+.nav-top{
+    margin:0px;
+    height: 594px;
+    color: white;
+    background-image: url(images/download.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    flex-direction: column;
+  
+}
+/* #menuToggle{
+    
+} */
+
+#menuToggle input{
+    display: none;
+}
+
+#menuToggle span{
+    display: none;
+}
+
+#menuToggle ul{ 
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center; 
+    padding-left: 0px; 
+    background-color: black;
+    margin-top: auto;
+   
+}
+
+#menuToggle li{
+    padding: 10%;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style: none; 
+    text-align: center;
+    font-size: 1.3rem;
+    color: white;
+    
+    margin-top: auto;
+}
+
+a{
+    text-decoration: none;
+    color: #232323;
+}
+
+.nav-text{
+    text-align: center;
+    width: auto;
+    font-size: 0.9rem;
+    margin: 7vh;
+    margin-top: 9%;
+    
+}
+.txt{
+    margin-bottom: 0%;
+}
+.nav-text p{
+    margin-top: 2%;
+    width: 71%;
+    text-align: center;
+    margin: auto;
+}
+
+article{
+    margin-top: 2vh;
+    }
+.img1{
+    display:flex;
+    justify-content: space-around;
+    align-content: center;
+    flex-wrap:wrap;
+    
+}
+.img-and-button{
+    background-color: #f4ebeb;
+    margin-bottom: 10px;
+}
+.images-box{  
+    height: 187px;
+    width: 267px;
+
+}
+.button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+    margin-bottom: 10%;
+      
+}
+button{
+    border-radius: 9px;
+    background:rgb(123, 212, 247);
+    height: 7vh;
+    width: 15vw;
+    padding-right: 0px;
+    padding-left: 0px;
+    font-size: 19px;
+   
+}
+ .coverImage{ 
+    height: 475px;
+    background-image: url(images/mountain.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+}
+.innerText{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.innerText h2{
+    margin-bottom: 0px;
+}
+
+.innerText p{
+    padding-left: 2%;
+    padding-right: 2%;
+    color: rgb(226, 87, 73);
+    margin-top: 0;
+    width: 50%;
+}
+
+.img-para h3{
+    width: 267px;
+    text-align: center;
+    margin-top: 0px;
+    color: #827f7e;
+    font-size: 0.9rem;
+}
+#Contact{
+    /* height: 50vh; */
+    width: inherit;
+    margin-top: 4%;
+    background-image: url(images/sunsetOnRoad.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intouch{
+    text-align: center;
+    width: auto;
+    font-size: 0.9rem;
+    margin: 0;
+    margin-top:0px;
+    margin-bottom: 2%;
+}
+.formset{
+    display: flex;
+    flex-direction: column;
+  
+    justify-content: center;
+    align-items: center;
+}
+.form{
+    display: flex;
+    flex-direction: column;
+    margin: 1%;
+    margin-left: 2%;
+    margin-top: 0px;
+    width: 50vw;
+    font-size: 0.9rem;
+    font-weight: bolder;
+}
+.form span{
+    font-size: 16px;
+}
+.form input{
+    height: 3vh;
+}
+
+#submitform{
+    width: 100px;
+    border-radius: 0px;
+    background-color: floralwhite;
+    margin-bottom: 4px;
+}
+
+.last{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.second h1{
+    margin-bottom: 0px;
+}
+.second p{
+    text-align: center;
+    margin-top: 0px;
+    width: 35%;
+} 
+
+.box1{
+    background-image: url(images/highroad.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box2{
+    background-image: url(images/jetty.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box3{
+    background-image: url(images/red.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box4{
+    background-image: url(images/newYork.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box5{
+    background-image: url(images/bluesky.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box6{
+    background-image: url(images/deer.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box7{
+    background-image: url(images/lion.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box8{
+    background-image: url(images/tiger.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box9{
+    background-image: url(images/cheetah.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box10{
+    background-image: url(images/red.jpg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+.box11{
+    background-image: url(images/sunset.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover ;
+}
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 567px){
+  
+    .nav-top{
+        height: 29vh;
+    }
+
+    a{
+        text-decoration: none;
+        color: #232323;
+        transition: color 0.3s ease;
+    }
+
+    #menuToggle{
+        display: block;
+        position: relative;
+        top: 10%;
+        margin-left: 4%;
+        z-index: 1;
+        -webkit-user-select: none;
+        user-select: none;
+    }
+
+    #menuToggle input{
+        display: block;
+        width: 40px;
+        height: 32px;
+        position: absolute;
+        top: -7px;
+        left: -5px;
+        cursor: pointer;
+        opacity: 0; 
+        z-index: 2; 
+        -webkit-touch-callout: none;
+    }
+
+    #menuToggle span{
+        display: block;
+        width: 33px;
+        height: 4px;
+        margin-bottom: 5px;
+        position: relative;
+        background: #cdcdcd;
+        border-radius: 3px;
+        z-index: 1;
+        transform-origin: 4px 0px;
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    background 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
+                    opacity 0.55s ease;
+    }
+
+    #menuToggle span:first-child{
+        transform-origin: 0% 0%;
+    }
+
+    #menuToggle span:nth-last-child(2){
+        transform-origin: 0% 100%;
+    }
+
+    #menuToggle input:checked ~ span{
+        opacity: 1;
+        transform: rotate(45deg) translate(-2px, -1px);
+        background: #c6c4c4;
+    }
+
+    #menuToggle input:checked ~ span:nth-last-child(3){
+        opacity: 0;
+        transform: rotate(0deg) scale(0.2, 0.2);
+    }
+
+    #menuToggle input:checked ~ span:nth-last-child(2){
+        transform: rotate(-45deg) translate(0, -1px);
+    }
+
+    #menu{
+        position: absolute;
+        width: 50%;
+        margin: -100px 0 0 -50px;
+        padding: 0;
+        padding-top: 125px;
+        margin-top: -2px;
+        padding-top: 1%;
+        background: #464545;
+        list-style-type: none;
+        -webkit-font-smoothing: antialiased;
+        transform-origin: 0% 0%;
+        transform: translate(-100%, 0);
+        transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0);
+    }
+    #menuToggle ul{ 
+        display: inherit;
+    }
+
+    #menu li{
+        padding: 5px 0;
+        margin-bottom: 5px;
+        font-size: 0.6rem;
+        text-align: center;
+        background: #4d4c4c;
+        color: white;
+    }
+
+    #menuToggle input:checked ~ ul{
+        transform: none;
+    }
+
+    .nav-text{
+        color: white;
+        text-align: center;
+        width: auto;
+        margin: auto;
+        font-size: 0.9rem;
+        margin-top: 7%;
+    }
+    .txt{
+        margin-bottom: 0%;
+    }
+    .nav-text p{
+        margin-top: 2%;
+        width: 71%;
+        text-align: center;
+        margin: auto;
+    }
+
+/* main */
+
+.images-box{  
+    height: 200px;
+    width: 247px;
+    
+   
+}
+.button{
+    margin-top: 3%;
+    margin-bottom: 4%;
+      
+}
+button{
+    height: 5vh;
+    width: 20vw;
+}
+
+.img-para h3{
+    width: 247px;
+    text-align: center;
+
+}
+.coverImage{ 
+    height: 29vh;
+}
+.innerText p{
+    width: 100%
+}
+
+#Contact{
+        height: 40vh;
+        width: inherit;
+    }
+    intouch{
+        margin: 0px;
+    }
+    .txt{
+        margin-top: 0px;
+        font-size: 15px;
+    }
+    .formset{
+        display: block;
+        margin-top: 0px;
+    }
+    .form{
+        display:flex;
+        flex-direction: column;
+        margin: 1%;
+        margin-left: 2%;
+        margin-top: 10px;
+        width: 50vw;
+        font-size: 0.9rem;
+      
+    }
+    .form span{
+        color: rgb(64, 68, 72);
+        font-size: 13px;
+    }
+    .message{
+        height: 10vh;
+        width: 47vw;
+           
+    }
+    .form input{
+        height: 1vh;
+    }
+     .second p{
+        width: 27%;
+    } 
+
+    
+
+
+
+}
+
