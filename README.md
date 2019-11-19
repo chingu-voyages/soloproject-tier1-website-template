@@ -3,7 +3,7 @@
 ![Tier1 Website Template](./assets/Tier1_Website_Template.gif)
 
 ## Overview
-This project provides you with Great Practice Making MODERN LOOKING web apps 
+This project provides you with great practice making MODERN LOOKING web apps 
 by cloning the "Conquer" Website Template in HTML/CSS/JS WITHOUT Bootstrap, 
 jQuery, or other libraries (like Materialize)!
 
@@ -17,8 +17,8 @@ web apps you develop!
 
 ## Instructions
 
-For this project you must use Native (Vanilla/Plain) HTML5, CSS, and JavaScript
-for this project. You are encouraged to use CSS-Grid, Flexbox, Media Queries, a
+For this project you must use Native (Vanilla/Plain) HTML5, CSS, and 
+JavaScript. You are encouraged to use CSS-Grid, Flexbox, Media Queries, a
 naming system like BEM, semantic HTML tags, or other modern techniques! 
 
 > You may **NOT** use frameworks or libraries such as Bootstrap.
