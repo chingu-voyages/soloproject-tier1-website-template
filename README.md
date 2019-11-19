@@ -55,7 +55,7 @@ or another free image/video site
 (to look good on mobile) to your stylesheet, which you need to add to your 
 `index.html`
 - [ ] For the card sections of the page, categories, etc. decide on a layout 
-strategy and use it consistently, such as CSS-Grid or Flex
+strategy and use it consistently, such as CSS Grid and/or Flexbox
 - [ ] Design your buttons and other elements. Remember to use a consistent
 design so buttons all look like buttons, links all look like links, etc.
 
@@ -65,9 +65,10 @@ gracefully eases in instead of jumps is a good thing to try with JavaScript
 - [ ] Implement a Parallax effect for your page.
 
       You are going to need to research how to write the JavaScript and CSS for 
-      the PARALLAX effect It is recommended, because it is an effect in high 
-      demand! "Parallax" scrolling is when the background appears to be moving 
-      behind other sections on the page.
+      the PARALLAX effect. It is recommended, because it is an effect in high 
+      demand! "Parallax" scrolling is when the background appears to move at 
+      a different rate of speed, or in a different direction, than the rest 
+      of the page.
 
 *Other*
 - [ ] Your repo needs to have a robust `README.md`
