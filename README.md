@@ -1,4 +1,4 @@
-# Chingu Voyage Pre-work Project (Tier 1): Website Template
+# Chingu Solo Project - Tier 1 - Website Template
 
 ![Tier1 Website Template](./assets/Tier1_Website_Template.gif)
 
