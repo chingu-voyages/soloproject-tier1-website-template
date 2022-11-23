@@ -37,7 +37,7 @@ naming system like BEM, semantic HTML tags, or other modern techniques!
 > You may **NOT** use frameworks or libraries such as Bootstrap.
 
 General instructions for all Pre-Work Projects can also be found in the [Chingu
-Library](https://voyage.docs.chingu.io/prework/howwork).
+Library](https://separated-pruner-c0c.notion.site/Solo-Projects-bcb04a220e564a80b835557e803c0a5e).
 
 ### Requirements
 
